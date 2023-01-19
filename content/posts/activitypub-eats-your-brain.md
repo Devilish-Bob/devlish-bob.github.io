@@ -1,5 +1,5 @@
 ---
-title: "ActivityPub Eats Your Brain"
+title: "ActivityPub Eats Your Brain!"
 date: 2023-01-19T17:43:08Z
 description: "Demystifying ActivityPub, one activity at a time."
 type: "post"
