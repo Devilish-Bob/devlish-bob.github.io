@@ -314,7 +314,7 @@ Now would probably be a good time to talk about the elephant in the room: Mastod
 
 Wait a minute, WebWhat? If you think about it, our current implementation is not-exactly user friendly. Actually, there are probably exactly two people in the world who know how to use it, you and me. One huge problem is your identifier is some long URL! Like if Billiam tells you, shoot me a paper airplane to `https://centipete.exozy.me/users/billiam.jsonld`, you're going to think he's crazy.
 
-Mastodon's solution is to use the WebFinger standard. You get a nice, short cozy username like `@billiam@centipete.exozy.me`, but internally, it's gotta be translated to the long URL version. To do that, you simply fetch `https://centipete.exozy.me/.well-known/webfinger?resource=acct:billiam@centipete.exozy.me`, and it'll hand you some JSON:
+Mastodon's solution is to use the WebFinger standard. You get a nice, short cozy username like `@billiam@centipete.exozy.me`, but internally, it's gotta be translated to the long URL version. To do that, simply fetch `https://centipete.exozy.me/.well-known/webfinger?resource=acct:billiam@centipete.exozy.me`, and it'll hand you some JSON:
 ```json
 {
 	"subject": "acct:billiam@centipete.exozy.me",
@@ -328,7 +328,7 @@ Mastodon's solution is to use the WebFinger standard. You get a nice, short cozy
 }
 ```
 
-That's it. Not bad!
+That's it. Not bad! You can even try it out yourself by putting `@billiam@centipete.exozy.me` into the search bar on Mastodon.
 
 Also, since you're probably figured out by now that this is a weird ActivityPub guide, there's one key word I've not used yet: federation. But actually, you already know what it means, you just don't know that you know what it means yet. Federation is simply this 3-hop paper airplane thing: first, you send the activity to your server, which gets sent to the recipient's server, and then the recipient checks their server for the message. Instead of a single server, there are thousands of servers!
 
