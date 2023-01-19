@@ -156,6 +156,7 @@ from requests import post
 with open('activity', 'rb') as f:
 	activity = f.read()
 
+# Gory technical code to create signature
 date = formatdate(usegmt=True)
 digester = hashes.Hash(hashes.SHA256())
 digester.update(activity)
