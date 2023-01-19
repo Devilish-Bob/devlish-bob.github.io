@@ -355,7 +355,7 @@ Here are some resources that might be helpful. As an `OrderedCollection`, of cou
 {
 	"@context": "https://www.w3.org/ns/activitystreams",
 	"type": "OrderedCollection",
-	"totalItems": 1,
+	"totalItems": 5,
 	"orderedItems": [
 		"https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/",
 		"https://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/",
