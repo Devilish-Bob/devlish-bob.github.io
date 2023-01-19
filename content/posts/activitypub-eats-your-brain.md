@@ -322,7 +322,7 @@ Mastodon's solution is to use the WebFinger standard. You get a nice, short cozy
 		{
 			"rel": "self",
 			"type": "application/activity+json",
-			"href": "https://centipete.exozy.me/users/billiam.jsonld
+			"href": "https://centipete.exozy.me/users/billiam.jsonld"
 		}
 	]
 }
@@ -366,5 +366,5 @@ Here are some resources that might be helpful. As an `OrderedCollection`, of cou
 }
 ```
 
-As a final challenge, try replying to this post using your own ActivityPub server implemenation. Seeya in the fediverse!
+As a final challenge, try replying to [this post](https://social.exozy.me/@a/109718407634106530) using your own ActivityPub server implemenation. Seeya in the fediverse!
 
