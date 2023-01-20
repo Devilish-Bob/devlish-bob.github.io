@@ -367,5 +367,5 @@ Here are some resources that might be helpful. As an `OrderedCollection`, of cou
 }
 ```
 
-As a final challenge, try replying to [this post](https://social.exozy.me/@a/109718407634106530) using your own ActivityPub server implemenation. Seeya in the fediverse!
+As a final challenge, try replying to [this post](https://social.exozy.me/@a/109718407634106530) using your own ActivityPub server implemenation. Make the unicorns proud! Seeya in the fediverse!
 
