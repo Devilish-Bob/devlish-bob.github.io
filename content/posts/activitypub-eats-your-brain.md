@@ -23,7 +23,11 @@ That doesn't help at all. Even more confused now, you ask, "Um, what's an activi
 
 "OK, but what about those paper airplanes? I don't even understand how unicorns can throw paper airplanes with their hooves."
 
-"So let's say I want to tell my friend Lalani an activity. But what if... she's not even inside the pub right now? This is where those giant centipedes come in. They're servers, since they serve us vintage milk in this pub. Us unicorns each have a server. Some centipedes serve thousands of unicorns, which is why they need to have so many limbs. We each have an inbox and outbox with our server. I'll first write down my activity on this piece of paper and who it's to and fold it into an airplane. Then I'll throw my paper airplane to my server, a friendly centipede named Pete, and they'll add it to my outbox since it's an outgoing activity. Finally, they'll throw it to Lalani's server and her server will add it to her inbox. Then later on, Lalani can go ask her server if any activities showed up in her inbox while she was gone, and read them."
+"So let's say I want to tell my friend Lalani an activity. But what if... she's not even inside the pub right now? This is where those giant centipedes come in. They're servers, since they serve us vintage milk in this pub. Us unicorns each have a server. Some centipedes serve thousands of unicorns, which is why they need to have so many limbs. There are tons of servers out there."
+
+"Couldn't you just have a single centipede serve everyone?"
+
+"No, that's crazy. Centipedes don't have millions of legs. And even if they did, what if the centipede started hating you? Then you'd be really screwed. Anyways, we each have an inbox and outbox with our server. I'll first write down my activity on this piece of paper and who it's to and fold it into an airplane. Then I'll throw my paper airplane to my server, a friendly centipede named Pete, and they'll add it to my outbox since it's an outgoing activity. Finally, they'll throw it to Lalani's server and her server will add it to her inbox. Then later on, Lalani can go ask her server if any activities showed up in her inbox while she was gone, and read them."
 
 "May I aks... are those centipedes... venomous?"
 
@@ -356,10 +360,11 @@ Here are some resources that might be helpful. As an `OrderedCollection`, of cou
 {
 	"@context": "https://www.w3.org/ns/activitystreams",
 	"type": "OrderedCollection",
-	"totalItems": 5,
+	"totalItems": 6,
 	"orderedItems": [
 		"https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/",
 		"https://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/",
+		"https://git.exozy.me/a/fuwuqi",
 		"https://tinysubversions.com/notes/reading-activitypub/",
 		"https://flak.tedunangst.com/post/ActivityPub-as-it-has-been-understood",
 		"https://codeberg.org/forgejo/forgejo/issues/59#contributing"
