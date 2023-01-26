@@ -108,5 +108,8 @@ Just some quotes I like. The date in front of a quote indicates when it was quot
 "A conclusion is simply the place where someone got tired of thinking."\
 \- Unknown
 
-"A little inaccuracy sometimes saves tons of explanation."
+"A little inaccuracy sometimes saves tons of explanation."\
 \- H. H. Munroe, "Saki"
+
+2023-01-25 "An idiot with a computer is a faster, better idiot."\
+-Rich Julius"
