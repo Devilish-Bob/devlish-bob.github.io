@@ -27,3 +27,7 @@ A dodecahedron made of straws...
 ![Dodecahedron lamp](/dodecahedra/dodecahedron-lamp.jpg)
 
 ...and converted into a lampshade.
+
+![Pentakis dodecahedron made out of water bottles](/dodecahedra/water-bottle-pentakis-dodecahedron.jpg)
+
+A pentakis dodecahedron (dodecahedron with a pentagonal pyramid attached to each face) made out of empty water bottles.
