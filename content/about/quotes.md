@@ -4,6 +4,8 @@ type: page
 ---
 
 
+Just some quotes I like. The date in front of a quote indicates when it was quote of the day.
+
 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."\
 \- Antoine de Saint-Exupéry
 
