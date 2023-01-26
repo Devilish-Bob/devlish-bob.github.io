@@ -112,4 +112,7 @@ Just some quotes I like. The date in front of a quote indicates when it was quot
 \- H. H. Munroe, "Saki"
 
 2023-01-25 "An idiot with a computer is a faster, better idiot."\
--Rich Julius"
+\-Rich Julius"
+
+"Never surrender to fascist zebras to cosplaying as unicorns."\
+- Anthony Wang
