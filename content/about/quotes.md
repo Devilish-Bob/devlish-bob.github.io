@@ -33,7 +33,7 @@ Just some quotes I like. The date in front of a quote indicates when it was quot
 `echo "source .bashrc" >> .bashrc`\
 \- Randall Munroe
 
-"The universe tends toward maximum irony. Don't push it."\
+2023-01-26 "The universe tends toward maximum irony. Don't push it."\
 \- Jamie Zawinski
 
 "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."\
