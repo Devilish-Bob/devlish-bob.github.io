@@ -105,7 +105,7 @@ Just some quotes I like. The date in front of a quote indicates when it was quot
 2023-01-24 "Think of how stupid the average person is, and realize half of them are stupider than that."\
 \- George Carlin
 
-"A conclusion is simply the place where someone got tired of thinking."\
+2023-01-27 "A conclusion is simply the place where someone got tired of thinking."\
 \- Unknown
 
 "A little inaccuracy sometimes saves tons of explanation."\
