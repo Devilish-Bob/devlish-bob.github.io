@@ -29,7 +29,7 @@ That doesn't help at all. Even more confused now, you ask, "Um, what's an activi
 
 "No, that's crazy. Centipedes don't have millions of legs. And even if they did, what if the centipede started hating you? Then you'd be really screwed. Anyways, we each have an inbox and outbox with our server. I'll first write down my activity on this piece of paper and who it's to and fold it into an airplane. Then I'll throw my paper airplane to my server, a friendly centipede named Pete, and they'll add it to my outbox since it's an outgoing activity. Finally, they'll throw it to Lalani's server and her server will add it to her inbox. Then later on, Lalani can go ask her server if any activities showed up in her inbox while she was gone, and read them."
 
-"May I aks... are those centipedes... venomous?"
+"May I ask... are those centipedes... venomous?"
 
 "Of course! All centipedes are venomous! But don't worry, they won't hurt you. Well, just don't mention the birdsite, or they'll eat your brain."
 
