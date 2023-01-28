@@ -4,7 +4,7 @@ type: page
 ---
 
 
-Just some quotes I like. The date in front of a quote indicates when it was quote of the day.
+Just some quotes I like. The date in front of a quote indicates when it was Quote of the Day.
 
 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."\
 \- Antoine de Saint-Exupéry
@@ -115,4 +115,7 @@ Just some quotes I like. The date in front of a quote indicates when it was quot
 \- Rich Julius
 
 "Never surrender to fascist zebras to cosplaying as unicorns."\
+\- Anthony Wang
+
+2023-01-28 "Tell 5 of your friends about Quote of the Day, and receive a FREE Quote of the Day!!!"\
 \- Anthony Wang
