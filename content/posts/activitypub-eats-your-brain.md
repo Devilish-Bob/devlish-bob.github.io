@@ -19,7 +19,7 @@ That doesn't help at all. Even more confused now, you ask, "Um, what's an activi
 
 "You're just making me more and more confused."
 
-"An activity is just someone doing something to another thing. Here in the Activity Pub, we call the someone an actor, the something an action, and the another thing an object. Highly scientific, you see. When you asked me that question, the actor was you, the action was asking, and the object was the question. Easy as that."
+"An activity is just someone doing something to another thing. Here in the Activity Pub, we call the someone an actor, the something an action, and the another thing an object. Actors do actions to objects. Using fancy jargon, this is called the actor model. Highly scientific, you see. When you asked me that question, the actor was you, the action was asking, and the object was the question. Easy as that."
 
 "OK, but what about those paper airplanes? I don't even understand how unicorns can throw paper airplanes with their hooves."
 
