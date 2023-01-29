@@ -360,14 +360,15 @@ Here are some resources that might be helpful. As an `OrderedCollection`, of cou
 {
 	"@context": "https://www.w3.org/ns/activitystreams",
 	"type": "OrderedCollection",
-	"totalItems": 6,
+	"totalItems": 7,
 	"orderedItems": [
 		"https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/",
 		"https://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/",
 		"https://git.exozy.me/a/fuwuqi",
 		"https://tinysubversions.com/notes/reading-activitypub/",
 		"https://flak.tedunangst.com/post/ActivityPub-as-it-has-been-understood",
-		"https://codeberg.org/forgejo/forgejo/issues/59#contributing"
+		"https://codeberg.org/forgejo/forgejo/issues/59#contributing",
+		"https://delightful.club/delightful-activitypub-development/"
 	]
 }
 ```
