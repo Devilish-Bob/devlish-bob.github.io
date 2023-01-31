@@ -256,7 +256,7 @@ class ActivityPubHandler(SimpleHTTPRequestHandler):
 			# Client sending an outgoing activity!
 			list_append(username, 'outbox', activity)
 			for to in activity['to']:
-				if to == 'followers':
+				if 'followers' in to
 					# Tell all my followers!
 					with open(f'users/{username}.followers') as f:
 						for follower in load(f)['orderedItems']:
