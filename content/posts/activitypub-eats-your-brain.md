@@ -73,9 +73,10 @@ def process_airplane(self):
 	lick = self.extract_lick()
 	print(activity)
 
+	username = self.get_username()
+
 	verify_lick(lick)
 
-	username = self.get_username()
 	if self.activity_for_inbox():
 		list_append(username, 'inbox', activity)
 		if activity['type'] == 'Accept':
