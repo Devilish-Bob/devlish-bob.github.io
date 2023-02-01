@@ -234,7 +234,7 @@ class ActivityPubHandler(SimpleHTTPRequestHandler):
 		headers = search('headers="(.*?)"', self.headers['Signature']).group(1)
 		message = ''
 		for header in headers.split():
-			headerval = f'post {self.path}' if header == '(request-target)' else headerval = self.headers[header]
+			headerval = f'post {self.path}' if header == '(request-target)' else self.headers[header]
 			message += f'{header}: {headerval}\n'
 		# Verify HTTP signature
 		signature = search('signature="(.*?)"', self.headers['Signature']).group(1)
@@ -256,7 +256,7 @@ class ActivityPubHandler(SimpleHTTPRequestHandler):
 			# Client sending an outgoing activity!
 			list_append(username, 'outbox', activity)
 			for to in activity['to']:
-				if 'followers' in to
+				if 'followers' in to:
 					# Tell all my followers!
 					with open(f'users/{username}.followers') as f:
 						for follower in load(f)['orderedItems']:
