@@ -239,7 +239,6 @@ class ActivityPubHandler(SimpleHTTPRequestHandler):
 		# Verify HTTP signature
 		signature = search('signature="(.*?)"', self.headers['Signature']).group(1)
 		pubkey.verify(b64decode(signature), message[:-1].encode('utf8'), padding.PKCS1v15(), hashes.SHA256())
-		actor = keyid.removesuffix('#main-key')
 		# Make sure activity doer matches HTTP signature 
 		if ('actor' in activity and activity['actor'] != signer['id']) or \
 		   ('attributedTo' in activity and activity['attributedTo'] != signer['id']) or \
