@@ -4,4 +4,4 @@ type: page
 ---
 
 
-My email address is the same as this website domain, but with the first dot replaced with an at symbol. If you can, please use PGP with [my public key](https://git.exozy.me/a.gpg).
+My email address is just devilishbob1@gmail.com, just contact em if anything is wrong, if you have suggestions, or if you just want to talk. please dont spam me or i instantly block you.

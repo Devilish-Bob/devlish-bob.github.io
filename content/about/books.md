@@ -8,9 +8,7 @@ type: page
 
 - **1984 - George Orwell**: The book that Amazon erased from people's Kindles... 😬
 
-- **What If? - Randall Munroe**: The What If? blog but as a book, and the best way to blown the mind of fourth-grade me.
-
-- **The Elements - Theodore Gray**: Lovely periodic table book with large beautiful pictures except the author sadly didn't try to nearly kill himself by photographing the highly radioactive elements.
+- **What If? - Randall Munroe**: The What If? blog but as a book, and it was very intresting.
 
 - **Lies My Teacher Told Me - James Loewen**: I can't decide if this book is more interesting or [Wikipedia's weirdest history articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles#History).
 
