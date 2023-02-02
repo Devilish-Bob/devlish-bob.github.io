@@ -4,27 +4,24 @@ type: page
 ---
 
 
-a sentient dodecahedron.
+the heir to the trone of a sentient dodecahedron.
 
 learning.
 
-sleeping with 1/3 probability.
+sleeping with 1/9 probability.
 
 [coding](/projects).
 
-(idk what to put here).
+(i know what to put here, but i dont want to put it here).
 
-enjoying my life in St. Louis, Misery (er... Missouri).
+"enjoying" my life in St. Louis, Misery (er... Missouri).
 
-crafting [dodecahedra](/projects/dodecahedra).
 
-[wasting time](games) the most efficient way possible.
+[wasting time](games [warthunder]) the most efficient way possible.
 
 trying to master [algorithmic wizardry](/projects/competitive-programming).
 
-building a [community](https://exozy.me).
-
-violating the [Discord](/posts/dont-use-discord/) TOS daily. 
+building a [community](https://devilish-bob.github.io/about/books/).
 
 pretending like I know [$SOME_RANDOM_PROGRAMMING_LANGUAGE](languages).
 
@@ -36,15 +33,13 @@ creating a compilation of hilariously useless (and fun!) [quotes](quotes).
 
 trapped inside [vim](https://www.reddit.com/r/archlinux/comments/hssui9/comment/fych9dq/).
 
-spending hours [copying posts from my five previous blogs](https://git.exozy.me/a/website/issues/1) to this website and too tired to convert the crappy BBCode posts to Markdown.
-
-permanently incapable of drawing just about anything whatsoever.
+permanently incapable of drawing just about anything whatsoever (exept maybe a few planes).
 
 faithfully cataloguing my [horde](hardware).
 
 training neural networks to [vomit garbage](https://social.exozy.me/@ebooks/).
 
-looking up images online of chevrotains, jerboas, Tibetan foxes, Pallas's cats, potoos, and alpacas, which you should too, because it will instantly make your day better.
+looking up images online of chevrotains, jerboas, Tibetan foxes, Pallas's cats, potoos,alpacas, and f-15s, which you should too, because it will instantly make your day better.
 
 [breaking Arch Linux machines](/posts/installing-every-arch-package/).
 
