@@ -17,7 +17,7 @@ sleeping with 1/9 probability.
 "enjoying" my life in St. Louis, Misery (er... Missouri).
 
 
-[wasting time](games [warthunder]) the most efficient way possible.
+[wasting time](games) the most efficient way possible.
 
 trying to master [algorithmic wizardry](/projects/competitive-programming).
 
