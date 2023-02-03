@@ -6,6 +6,9 @@ type: page
 "new management!"\
 \- me(Ben L), 8:18 PM Thu Feb 2
 
+"The infinite possibilities each day holds should stagger the mind. The sheer number of experiences I could have is uncountable, breathtaking, and I'm sitting here refreshing my inbox. We live trapped in loops, reliving a few days over and over, and we envision only a handful of paths laid out before us. We see the same things every day, we respond the same way, we think the same thoughts, each day a slight variation on the last, every moment smoothly following the gentle curves of societal norms. We act like if we just get through today, tomorrow our dreams will come back to us. And no, I don't have all the answers. I don't know how to jolt myself into seeing what each moment could become. But I do know one thing: the solution doesn't involve watering down my every little idea and creative impulse for the sake of some day easing my fit into a mold. It doesn't involve tempering my life to better fit someone's expectations. It doesn't involve constantly holding back for fear of shaking things up. This is very important, so I want to say it as clearly as I can: FUCK. THAT. SHIT."\
+\- Randall Munroe
+
 Just some quotes I like. The date in front of a quote indicates when it was Quote of the Day.
 
 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."\
@@ -83,8 +86,6 @@ Just some quotes I like. The date in front of a quote indicates when it was Quot
 "I'd like to say that I knew this would happen, that it's all part of the plan for world domination."\
 \- Linus Torvalds
 
-"The infinite possibilities each day holds should stagger the mind. The sheer number of experiences I could have is uncountable, breathtaking, and I'm sitting here refreshing my inbox. We live trapped in loops, reliving a few days over and over, and we envision only a handful of paths laid out before us. We see the same things every day, we respond the same way, we think the same thoughts, each day a slight variation on the last, every moment smoothly following the gentle curves of societal norms. We act like if we just get through today, tomorrow our dreams will come back to us. And no, I don't have all the answers. I don't know how to jolt myself into seeing what each moment could become. But I do know one thing: the solution doesn't involve watering down my every little idea and creative impulse for the sake of some day easing my fit into a mold. It doesn't involve tempering my life to better fit someone's expectations. It doesn't involve constantly holding back for fear of shaking things up. This is very important, so I want to say it as clearly as I can: FUCK. THAT. SHIT."\
-\- Randall Munroe
 
 "There's *real* poetry in the *real* world. Science is the poetry of reality."\
 \- Richard Dawkins
