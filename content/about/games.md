@@ -55,3 +55,7 @@ This list isn't in order of best to worst, but that 2048 game is by far the best
 - Widelands
 - Oh My Git!
 - [2048-py](https://codeberg.org/LadueCS/2048) (shameless self-promotion)
+- warthunder (world of tanks sucks A TON)
+- csgo
+- tf2
+- satisfactory

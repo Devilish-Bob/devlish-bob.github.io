@@ -3,6 +3,8 @@ title: "Quotes I Like"
 type: page
 ---
 
+"new management!"\
+\- me(Ben L), 8:18 PM Thu Feb 2
 
 Just some quotes I like. The date in front of a quote indicates when it was Quote of the Day.
 
