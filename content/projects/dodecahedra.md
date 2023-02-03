@@ -2,7 +2,7 @@
 title: "Dodecahedra"
 type: page
 ---
-
+look, the previous owner was a sentient dodecahedron, so i used his website
 
 ![Origami dodecahedron](/dodecahedra/origami-dodecahedron-adjusted.png)
 
