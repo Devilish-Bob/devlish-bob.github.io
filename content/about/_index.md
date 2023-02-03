@@ -16,6 +16,9 @@ sleeping with 1/9 probability.
 
 "enjoying" my life in St. Louis, Misery (er... Missouri).
 
+having outbursts,
+THERE IS TOO MUCH DARN HOMEWORK
+that never happened
 
 [wasting time](games) the most efficient way possible.
 
@@ -42,7 +45,6 @@ training neural networks to [vomit garbage](https://social.exozy.me/@ebooks/).
 looking up images online of chevrotains, jerboas, Tibetan foxes, Pallas's cats, potoos,alpacas, and f-15s, which you should too, because it will instantly make your day better.
 
 [breaking Arch Linux machines](/posts/installing-every-arch-package/).
-
 running [docker inside docker inside docker inside docker](https://git.exozy.me/a/Arch-All-the-Way-Down).
 
 destroying GitHub by being a noob.
@@ -50,15 +52,13 @@ destroying GitHub by being a noob.
 getting roasted for my terrible [software stack](software).
 seeding this website with tons of [secret easter eggs](puzzle).
 
-amazed that special patterns in my biological neural networks transcribed into UTF-8 encoded strings in Markdown documents converted into HTML by [Hugo](https://gohugo.io) with the [Gokarna theme](https://github.com/526avijitgupta/gokarna) deployed to [exozyme](https://exozy.me) using [Woodpecker CI](https://woodpecker-ci.org) transmitted over HTTP and displayed on your screen have now created special patterns in your biological neural networks.
+amazed that special patterns in my biological neural networks (idk ,this probably means "brain") transcribed into UTF-8 encoded strings in Markdown documents converted into HTML by [Hugo](https://gohugo.io) with the [Gokarna theme](https://github.com/526avijitgupta/gokarna) deployed to [exozyme](https://exozy.me) using [Woodpecker CI](https://woodpecker-ci.org) transmitted over HTTP and displayed on your screen have now created special patterns in your biological neural networks.
 
-still alive.
+still alive. (please put that through a NOT gate to get the truth)
 
-(this line is reserved for future bug fixes).
+(this line is reserved for future bug fixes, hopefully there arent any).
 
 paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/).
-
-atrocious at writing poetry.
 
 [pi](https://tauday.com).
 
