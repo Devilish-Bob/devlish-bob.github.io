@@ -6,7 +6,7 @@ type: page
 
 the heir to the trone of a sentient dodecahedron.
 
-learning.
+still learning how to master code and domunate the world.
 
 sleeping with 1/9 probability.
 
@@ -43,18 +43,11 @@ looking up images online of chevrotains, jerboas, Tibetan foxes, Pallas's cats, 
 
 [breaking Arch Linux machines](/posts/installing-every-arch-package/).
 
-making Python segfault.
-
-fork bombing myself.
-
 running [docker inside docker inside docker inside docker](https://git.exozy.me/a/Arch-All-the-Way-Down).
 
-doing math unironically.
-
-destroying GitHub.
+destroying GitHub by being a noob.
 
 getting roasted for my terrible [software stack](software).
-
 seeding this website with tons of [secret easter eggs](puzzle).
 
 amazed that special patterns in my biological neural networks transcribed into UTF-8 encoded strings in Markdown documents converted into HTML by [Hugo](https://gohugo.io) with the [Gokarna theme](https://github.com/526avijitgupta/gokarna) deployed to [exozyme](https://exozy.me) using [Woodpecker CI](https://woodpecker-ci.org) transmitted over HTTP and displayed on your screen have now created special patterns in your biological neural networks.
@@ -69,3 +62,9 @@ atrocious at writing poetry.
 
 [pi](https://tauday.com).
 
+look, honesly i didnt think you had the dedication to reach this far. like seriously. i kind of wonder if anthony will get mad at me for this.
+
+i mean, im kind of safe right? were both from the same school, im short, he's tall, we could work things out right?
+
+
+oh goodness. i think im going to die.
