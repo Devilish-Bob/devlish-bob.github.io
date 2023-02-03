@@ -6,7 +6,7 @@ type: page
 
 the heir to the trone of a sentient dodecahedron.
 
-still learning how to master code and domunate the world.
+still learning how to master code and dominate the world.
 
 sleeping with 1/9 probability.
 
