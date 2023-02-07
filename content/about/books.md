@@ -8,7 +8,7 @@ type: page
 
 - **1984 - George Orwell**: The book that Amazon erased from people's Kindles... 😬
 
-- **What If? - Randall Munroe**: The What If? blog but as a book, and it was very intresting.
+- **What If? - Randall Munroe**: The What If? blog but as a book, and it was very intresting. you should also get thing explainer, what if 2, and how to.
 
 - **Lies My Teacher Told Me - James Loewen**: I can't decide if this book is more interesting or [Wikipedia's weirdest history articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles#History).
 
