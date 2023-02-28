@@ -2,6 +2,14 @@
 title: "About"
 type: page
 ---
+
+http://silly-cendol-bdc8ac.netlify.app
+im not sure if it actually works or not though
+
+hello my name is bob.
+email: devilishbob1@gmail.com
+website: ur on it right now
+
 (work in progress)
 
 (this line is reserved for future bug fixes, hopefully there arent any).
