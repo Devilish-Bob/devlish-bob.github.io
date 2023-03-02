@@ -2,7 +2,7 @@
 title: "About"
 type: page
 ---
-[hardware](content/about/hardware.md)
+[hardware](hardware)
 make sure to send your ideaas and changes to my email! this is critical, as this is a versitile and changing website!
 
 im not sure if it actually works or not though
