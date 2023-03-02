@@ -2,10 +2,9 @@
 title: "About"
 type: page
 ---
-
+[hardware](content/about/hardware.md)
 make sure to send your ideaas and changes to my email! this is critical, as this is a versitile and changing website!
 
-http://silly-cendol-bdc8ac.netlify.app
 im not sure if it actually works or not though
 
 hello my name is bob.
