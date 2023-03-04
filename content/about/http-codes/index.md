@@ -1,4 +1,8 @@
-# HTTP Status Codes
+---
+title: "HTTP Status Codes"
+type: page
+---
+
 | Type | Name |
 | ---- | ---- |
 | 1xx - Informational Response | [100 Continue](descriptions/1xx/100.md) |
