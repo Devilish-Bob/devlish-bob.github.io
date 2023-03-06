@@ -5,6 +5,6 @@ type: page
 
 
 ## Current
-| Type | Model | OS | CPU | GPU | RAM | Time used |
-| --- | --- | --- | --- | --- | --- | --- |
-|iPad|7|iPadOS|idk|idk|idk|idk|a lot|
+| Type | Model | OS | CPU | GPU | RAM | Time used | other stuff |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|iPad|idk|iPadOS|idk|idk|idk|idk|a lot|pretty much everything is blocked|
