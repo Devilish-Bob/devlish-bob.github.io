@@ -19,3 +19,5 @@ type: page
 - **Gödel, Escher, Bach - Douglas Hofstadter**: An amazing math book that I received as a present recently even though I'd already read the book a few years ago. Oh well.
 
 - **The Three-Body Problem Trilogy**: The first book is great, the second is good but with an absolutely insane ending, and the third book is incredible. Some people complain about the author sometimes info-dumping technical and scientific information, but that's one of the things I love about these books.
+
+**math with bad drawingds**: This is an increadibly funny book, and I already knew all of the math terms, but I still ejoyed it
