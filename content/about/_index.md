@@ -3,7 +3,7 @@ title: "About"
 type: page
 ---
 heres a list of hardware: [hardware](hardware)
-heres some good books: [content/about/books.md](books)
+heres some good books: [books](books)
 
 make sure to send your ideaas and changes to my email! this is critical, as this is a versitile and changing website!
 
