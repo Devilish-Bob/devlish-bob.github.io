@@ -21,7 +21,7 @@
   errorEmojiContainer.appendChild(document.createTextNode(errorEmoji));
 
   function color() {
-      var html = document.getElementsByTagName("html")
+      var html = document.getElementsByTagName("html")[0]
       html.setAttribute("style", 'background-color: #'+(Math.round(Math.random()*255)).toString(16)+(Math.round(Math.random()*255)).toString(16)+(Math.round(Math.random()*255)).toString(16))
   }
 </script>
