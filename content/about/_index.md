@@ -21,11 +21,18 @@ paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/). [
   
 [http status codes](http-codes/)
 
+<script>
 
 
   function color() {
-      var html = document.getElementsByTagName("html")[0]
-      html.setAttribute("style", 'background-color: #'+(Math.round(Math.random()*255)).toString(16)+(Math.round(Math.random()*255)).toString(16)+(Math.round(Math.random()*255)).toString(16))
+      var html = document.getElementsByTagName("html")[0];
+
+      hex = '#' \
+       + (Math.round(Math.random()*255)).toString(16) \
+       + (Math.round(Math.random()*255)).toString(16) \
+       + (Math.round(Math.random()*255)).toString(16)
+
+      html.setAttribute("style", 'background-color: ' + hex);
   }
 </script>
 
