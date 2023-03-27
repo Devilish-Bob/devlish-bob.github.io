@@ -31,4 +31,18 @@
   hello this is in progress
   </p>
 </button>
+
+
+<script>
+function color() {
+  var html = document.getElementsByTagName("html")[0]
+  html.setAttribute("style", 'background-color: #'+(Math.round(Math.random()*255)).toString(16)+(Math.round(Math.random()*255)).toString(16)+(Math.round(Math.random()*255)).toString(16))
+}
+</script>
+
+<button onclick="color()">
+<p>
+hello this is in progress
+</p>
+</button>
 {{ end }}
