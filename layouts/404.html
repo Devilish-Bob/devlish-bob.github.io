@@ -22,13 +22,18 @@
 
   function color() {
       var html = document.getElementsByTagName("html")[0]
-      html.setAttribute("style", 'background-color: #'+(Math.round(Math.random()*255)).toString(16)+(Math.round(Math.random()*255)).toString(16)+(Math.round(Math.random()*255)).toString(16))
+      let hex = [
+        255,
+        0,
+        0,
+      ]
+      html.setAttribute("style", 'background-color: #'+hex[0]+hex[1]+hex[2])
   }
 </script>
 
 <button onclick="color()">
   <p>
-  hello this is in progress
+  hello this is probably red, i hope.
   </p>
 </button>
 
