@@ -24,20 +24,28 @@
   function colorred() {
       var html = document.getElementsByTagName("html")[0]
       let reds = [
-        ["ff", "00", "00"]
+        ["ff", "00", "00"],
         ["c3", "00", "00"],
         ["ea", "33", "33"],
         ["fa", "63", "63"],
         ["bf", "10", "10"],
+        ["a9", "0b", "0b"],
+        ["ac", "38", "38"],
+        ["c5", "40", "40"],
+        ["b3", "0f", "0f"],
+        ["d3", "3d", "18"],
+        ["e8", "4d", "27"],
+        ["f9", "37", "08"],
+        // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
       ]
       let randcolor = reds[Math.floor(Math.random() * reds.length)];
       html.setAttribute("style", 'background-color: #'+randcolor[0]+randcolor[1]+randcolor[2])
   }
 </script>
 
-<button onclick="colorred()">
+<button onclick="colorred()" style="">
   <p>
-  hello this is probably red, i hope. (please work)
+    Change the Background to one of various shades of red!
   </p>
 </button>
 
