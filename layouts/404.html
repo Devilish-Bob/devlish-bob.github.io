@@ -21,20 +21,23 @@
   errorEmojiContainer.appendChild(document.createTextNode(errorEmoji));
 
 //hello, this is the buttons section
-  function color() {
+  function colorred() {
       var html = document.getElementsByTagName("html")[0]
-      let hex = [
-        255,
-        0,
-        0,
+      let reds = [
+        ["ff", "00", "00"]
+        ["c3", "00", "00"],
+        ["ea", "33", "33"],
+        ["fa", "63", "63"],
+        ["bf", "10", "10"],
       ]
-      html.setAttribute("style", 'background-color: #'+hex[0]+hex[1]+hex[2])
+      let randcolor = reds[Math.floor(Math.random() * reds.length)];
+      html.setAttribute("style", 'background-color: #'+randcolor[0]+randcolor[1]+randcolor[2])
   }
 </script>
 
-<button onclick="color()">
+<button onclick="colorred()">
   <p>
-  hello this is probably red, i hope.
+  hello this is probably red, i hope. (please work)
   </p>
 </button>
 
