@@ -24,22 +24,42 @@
   function colorred() {
       var html = document.getElementsByTagName("html")[0]
       let reds = [
-        ["ff", "00", "00"],
-        ["c3", "00", "00"],
-        ["ea", "33", "33"],
-        ["fa", "63", "63"],
-        ["bf", "10", "10"],
-        ["a9", "0b", "0b"],
-        ["ac", "38", "38"],
-        ["c5", "40", "40"],
-        ["b3", "0f", "0f"],
-        ["d3", "3d", "18"],
-        ["e8", "4d", "27"],
-        ["f9", "37", "08"],
+        "ff0000",
+        "c30000",
+        "ea3333",
+        "fa6363",
+        "bf1010",
+        "a90b0b",
+        "ac3838",
+        "c54040",
+        "b30f0f",
+        "d33d18",
+        "e84d27",
+        "f93708",
         // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
       ]
       let randcolor = reds[Math.floor(Math.random() * reds.length)];
       html.setAttribute("style", 'background-color: #'+randcolor[0]+randcolor[1]+randcolor[2])
+  }
+  function colorgray() {
+    var html = document.getElementsByTagName("html")[0]
+      let grays = [
+        "c4c4c4",
+        "c3c3c3",
+        "a9a9a9",
+        "f8f8f8",
+        "101010",
+        "0b0b0b",
+        "383838",
+        "404040",
+        "b3b3b3",
+        "d3d3d3",
+        "e8e8e8",
+        "f9f9f9",
+        // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
+      ]
+      let randcolor = grays[Math.floor(Math.random() * grays.length)];
+      html.setAttribute("style", 'background-color: #'+randcolor)
   }
 </script>
 
@@ -48,7 +68,11 @@
     Change the Background to one of various shades of red!
   </p>
 </button>
-
+<button onclick="colorgray()">
+  <p>
+    Change the Background to one of 12 different shades of gray!
+  </p>
+</button>
 
 <script>
 function color() {
