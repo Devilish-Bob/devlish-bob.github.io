@@ -40,6 +40,27 @@
       ]
       let randcolor = reds[Math.floor(Math.random() * reds.length)];
       html.setAttribute("style", 'background-color: #'+randcolor[0]+randcolor[1]+randcolor[2])
+
+      function colororange() {
+      var html = document.getElementsByTagName("html")[0]
+      let reds = [
+        "F0D869",
+        "FFD200",
+        "F8C056",
+        "FFA600",
+        "DEAA42",
+        "FF6700",
+        "CA8622",
+        "DC7829",
+        "DDA234",
+        "BD851E",
+        "DCA339",
+        "FF7500",
+        // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
+      ]
+      let randcolor = reds[Math.floor(Math.random() * reds.length)];
+      html.setAttribute("style", 'background-color: #'+randcolor[0]+randcolor[1]+randcolor[2])
+
   }
   function colorgray() {
     var html = document.getElementsByTagName("html")[0]
@@ -80,6 +101,11 @@
 <button onclick="colorred()">
   <p>
     Change the Background to one of various shades of red!
+  </p>
+</button>
+<button onclick="colororange()">
+  <p>
+    Change the Background to one of various shades of orange!
   </p>
 </button>
 <button onclick="colorgray()">
