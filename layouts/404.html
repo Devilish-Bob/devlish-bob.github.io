@@ -58,7 +58,6 @@
       "BD851E",
       "DCA339",
       "FF7500",
-    // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
     ];
     let randcolor = oranges[Math.floor(Math.random() * oranges.length)];
     html.setAttribute("style", 'background-color: #'+randcolor);
@@ -82,12 +81,30 @@
       "EFF25F",
       "C2C431",
       "FBFF00",
-    // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
     ];
     let randcolor = yellows[Math.floor(Math.random() * yellows.length)];
     html.setAttribute("style", 'background-color: #'+randcolor);
   }
 
+  function colorgreen() {
+    var html = document.getElementsByTagName("html")[0];
+    let greens = [
+      "1B8C3D",
+      "1CB249",
+      "41D66E",
+      "0DDB4B",
+      "8BDF2D",
+      "36D044",
+      "92F130",
+      "288830",
+      "17CC5E",
+      "3EE72B",
+      "1DBD0B",
+      "78C325",
+    ];
+    let randcolor = greens[Math.floor(Math.random() * greens.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor);
+  }
 
   function colorgray() {
     var html = document.getElementsByTagName("html")[0];
@@ -118,8 +135,7 @@
       "f1f1f1",
       // 23 shades mark! 12:15 PM Tue Apr 4
       // btw: (from: Asher) hex codes are 6 characters, like E1E1E1, not E10E10E10
-      // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
-      //pls proofread this! idk whether even half of these actually work
+      // kk good to know, but im using htmlcolorcode.com now so i just copy paste - devilish bob
     ];
     let randcolor = grays[Math.floor(Math.random() * grays.length)];
     html.setAttribute("style", 'background-color: #'+randcolor);
@@ -144,6 +160,11 @@
   </p>
 </button>
 
+button onclick="colorgreen()">
+  <p>
+    Change the Background to one of various shades of green!
+  </p>
+</button>
 
 <button onclick="colorgray()">
   <p>
