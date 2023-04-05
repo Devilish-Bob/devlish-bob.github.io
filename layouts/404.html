@@ -13,7 +13,7 @@
 <script>
   const errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];
   const emojiArray = [
-    '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
+    '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
     '(=\'X\'=)', '(>_<)', '(;-;)', '\\(^Д^)/', 'you found a shiny emoji! \\(^Д^)/',
     'pretend that this is an emoji '
   ];
@@ -22,83 +22,82 @@
 
 //hello, this is the buttons section
   function colorred() {
-      var html = document.getElementsByTagName("html")[0]
-      let reds = [
-        "ff0000",
-        "c30000",
-        "ea3333",
-        "fa6363",
-        "bf1010",
-        "a90b0b",
-        "ac3838",
-        "c54040",
-        "b30f0f",
-        "d33d18",
-        "e84d27",
-        "f93708",
+    var html = document.getElementsByTagName("html")[0]
+    let reds = [
+      "ff0000",
+      "c30000",
+      "ea3333",
+      "fa6363",
+      "bf1010",
+      "a90b0b",
+      "ac3838",
+      "c54040",
+      "b30f0f",
+      "d33d18",
+      "e84d27",
+      "f93708",
         // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
-      ]
+    ]
   
-      let randcolor = reds[Math.floor(Math.random() * reds.length)];
-      html.setAttribute("style", 'background-color: #'+randcolor)
+    let randcolor = reds[Math.floor(Math.random() * reds.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor)
   }
   
-      function colororange() {
-      var html = document.getElementsByTagName("html")[0]
-      let oranges = [
-        "F0D869",
-        "FFD200",
-        "F8C056",
-        "FFA600",
-        "DEAA42",
-        "FF6700",
-        "CA8622",
-        "DC7829",
-        "DDA234",
-        "BD851E",
-        "DCA339",
-        "FF7500",
-        // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
-      ]
-      let randcolor = oranges[Math.floor(Math.random() * oranges.length)];
-      html.setAttribute("style", 'background-color: #'+randcolor)
-
+  function colororange() {
+    var html = document.getElementsByTagName("html")[0]
+    let oranges = [
+      "F0D869",
+      "FFD200",
+      "F8C056",
+      "FFA600",
+      "DEAA42",
+      "FF6700",
+      "CA8622",
+      "DC7829",
+      "DDA234",
+      "BD851E",
+      "DCA339",
+      "FF7500",
+    // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
+    ]
+    let randcolor = oranges[Math.floor(Math.random() * oranges.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor)
   }
   
   function colorgray() {
     var html = document.getElementsByTagName("html")[0]
-      let grays = [
-        "c4c4c4",
-        "c3c3c3",
-        "a9a9a9",
-        "f8f8f8",
-        "101010",
-        "0b0b0b",
-        "383838",
-        "404040",
-        "b3b3b3",
-        "d3d3d3",
-        "e8e8e8",
-        "f9f9f9",
-        "d4d4d4",
-        "e1e1e1",
-        // i added 3 more shades of grey! - devilishbob 10:09 Mon Apr 3
-        "e3e3e3",
-        "131313",
-        "c8c8c8",
-        "101010",
-        "393939",
-        "c0c0c0",
-        "c9c9c9",
-        "d6d6d6",
-        "f1f1f1",
-        // 23 shades mark! 12:15 PM Tue Apr 4
-        // btw: (from: Asher) hex codes are 6 characters, like E1E1E1, not E10E10E10
-        // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
-        //pls proofread this! idk whether even half of these actually work
-      ]
-      let randcolor = grays[Math.floor(Math.random() * grays.length)];
-      html.setAttribute("style", 'background-color: #'+randcolor)
+    let grays = [
+      "c4c4c4",
+      "c3c3c3",
+      "a9a9a9",
+      "f8f8f8",
+      "101010",
+      "0b0b0b",
+      "383838",
+      "404040",
+      "b3b3b3",
+      "d3d3d3",
+      "e8e8e8",
+      "f9f9f9",
+      "d4d4d4",
+      "e1e1e1",
+    // i added 3 more shades of grey! - devilishbob 10:09 Mon Apr 3
+      "e3e3e3",
+      "131313",
+      "c8c8c8",
+      "101010",
+      "393939",
+      "c0c0c0",
+      "c9c9c9",
+      "d6d6d6",
+      "f1f1f1",
+      // 23 shades mark! 12:15 PM Tue Apr 4
+      // btw: (from: Asher) hex codes are 6 characters, like E1E1E1, not E10E10E10
+      // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
+      //pls proofread this! idk whether even half of these actually work
+    ]
+    let randcolor = grays[Math.floor(Math.random() * grays.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor)
   }
 </script>
 
