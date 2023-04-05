@@ -1,5 +1,3 @@
-{{ define "main"}}
-
 <div class="text-404">
   <h1 class="error-emoji"></h1>
   <h2>
@@ -10,6 +8,7 @@
       Please <a href="https://www.reddit.com/r/learnmath/comments/s4rt0/why_does_multiplying_by_i_correspond_to_90_degree/">rotate your computer 90 degrees</a> and try again.
   </h3>
 </div>
+
 <script>
   const errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];
   const emojiArray = [
@@ -40,11 +39,11 @@
     ]
   
     let randcolor = reds[Math.floor(Math.random() * reds.length)];
-    html.setAttribute("style", 'background-color: #'+randcolor)
+    html.setAttribute("style", 'background-color: #'+randcolor);
   }
   
   function colororange() {
-    var html = document.getElementsByTagName("html")[0]
+    var html = document.getElementsByTagName("html")[0];
     let oranges = [
       "F0D869",
       "FFD200",
@@ -59,13 +58,13 @@
       "DCA339",
       "FF7500",
     // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
-    ]
+    ];
     let randcolor = oranges[Math.floor(Math.random() * oranges.length)];
-    html.setAttribute("style", 'background-color: #'+randcolor)
+    html.setAttribute("style", 'background-color: #'+randcolor);
   }
   
   function colorgray() {
-    var html = document.getElementsByTagName("html")[0]
+    var html = document.getElementsByTagName("html")[0];
     let grays = [
       "c4c4c4",
       "c3c3c3",
@@ -95,9 +94,9 @@
       // btw: (from: Asher) hex codes are 6 characters, like E1E1E1, not E10E10E10
       // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
       //pls proofread this! idk whether even half of these actually work
-    ]
+    ];
     let randcolor = grays[Math.floor(Math.random() * grays.length)];
-    html.setAttribute("style", 'background-color: #'+randcolor)
+    html.setAttribute("style", 'background-color: #'+randcolor);
   }
 </script>
 
