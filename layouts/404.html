@@ -64,6 +64,31 @@
     html.setAttribute("style", 'background-color: #'+randcolor);
   }
   
+
+  function coloryellow() {
+    var html = document.getElementsByTagName("html")[0];
+    let yellows = [
+      "B1B013",
+      "CACA42",
+      "DBDB1B",
+      "DEDD66",
+      //ur DEDD boi
+      "B0B023",
+      // it says BOB! it says BOB!
+      "FFFE54",
+      "FFFF73",
+      "DEE200",
+      "D6D91E",
+      "EFF25F",
+      "C2C431",
+      "FBFF00",
+    // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
+    ];
+    let randcolor = yellows[Math.floor(Math.random() * yellows.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor);
+  }
+
+
   function colorgray() {
     var html = document.getElementsByTagName("html")[0];
     let grays = [
@@ -112,6 +137,13 @@
     Change the Background to one of various shades of orange!
   </p>
 </button>
+
+<button onclick="coloryellow()">
+  <p>
+    Change the Background to one of various shades of yellow!
+  </p>
+</button>
+
 
 <button onclick="colorgray()">
   <p>
