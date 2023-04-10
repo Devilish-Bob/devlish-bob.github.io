@@ -22,7 +22,7 @@ paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/). [
 [http status codes](http-codes/)
 
 
-
+'
 
 <script>
 
@@ -239,3 +239,4 @@ paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/). [
     50 shades of gray button
   </p>
 </button>
+'
