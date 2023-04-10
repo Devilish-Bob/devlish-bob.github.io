@@ -21,6 +21,9 @@ paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/). [
   
 [http status codes](http-codes/)
 
+
+
+
 <script>
 
 
@@ -39,5 +42,200 @@ paralyzed by the [infinite possibilities for each day](https://xkcd.com/137/). [
 <button onclick="color()">
   <p>
   hello this is in progress
+  </p>
+</button>
+
+
+<script>
+  const errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];
+  const emojiArray = [
+    '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
+    '(=\'X\'=)', '(>_<)', '(;-;)', '\\(^Д^)/', 'you found a shiny emoji! \\(^Д^)/',
+    'pretend that this is an emoji '
+  ];
+  const errorEmoji = emojiArray[Math.floor(Math.random() * emojiArray.length)];
+  errorEmojiContainer.appendChild(document.createTextNode(errorEmoji));
+
+//hello, this is the buttons section
+  function colorred() {
+    var html = document.getElementsByTagName("html")[0]
+    let reds = [
+      "ff0000",
+      "c30000",
+      "ea3333",
+      "fa6363",
+      "bf1010",
+      "a90b0b",
+      "ac3838",
+      "c54040",
+      "b30f0f",
+      "d33d18",
+      "e84d27",
+      "f93708",
+        // pls add more! (use htmlcolorcodes.com or something idk) - ilovapples
+    ]
+  
+    let randcolor = reds[Math.floor(Math.random() * reds.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor);
+  }
+  
+  function colororange() {
+    var html = document.getElementsByTagName("html")[0];
+    let oranges = [
+      "F0D869",
+      "FFD200",
+      "F8C056",
+      "FFA600",
+      "DEAA42",
+      "FF6700",
+      "CA8622",
+      "DC7829",
+      "DDA234",
+      "BD851E",
+      "DCA339",
+      "FF7500",
+    ];
+    let randcolor = oranges[Math.floor(Math.random() * oranges.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor);
+  }
+  
+
+  function coloryellow() {
+    var html = document.getElementsByTagName("html")[0];
+    let yellows = [
+      "B1B013",
+      "CACA42",
+      "DBDB1B",
+      "DEDD66",
+      //ur DEDD boi
+      "B0B023",
+      // it says BOB! it says BOB!
+      "FFFE54",
+      "FFFF73",
+      "DEE200",
+      "D6D91E",
+      "EFF25F",
+      "C2C431",
+      "FBFF00",
+    ];
+    let randcolor = yellows[Math.floor(Math.random() * yellows.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor);
+  }
+
+  function colorgreen() {
+    var html = document.getElementsByTagName("html")[0];
+    let greens = [
+      "1B8C3D",
+      "1CB249",
+      "41D66E",
+      "0DDB4B",
+      "8BDF2D",
+      "36D044",
+      "92F130",
+      "288830",
+      "17CC5E",
+      "3EE72B",
+      "1DBD0B",
+      "78C325",
+    ];
+    let randcolor = greens[Math.floor(Math.random() * greens.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor);
+  }
+
+  function colorgray() {
+    var html = document.getElementsByTagName("html")[0];
+    let grays = [
+      "c4c4c4",
+      "c3c3c3",
+      "a9a9a9",
+      "f8f8f8",
+      "101010",
+      "0b0b0b",
+      "383838",
+      "303030",
+      "b3b3b3",
+      "d3d3d3",
+      "e8e8e8",
+      "f9f9f9",
+      "d4d4d4",
+      "e1e1e1",
+    // i added 3 more shades of grey! - devilishbob 10:09 Mon Apr 3
+      "e3e3e3",
+      "131313",
+      "c8c8c8",
+      "202020",
+      "393939",
+      "c0c0c0",
+      "c9c9c9",
+      "d6d6d6",
+      "f1f1f1",
+      // 23 shades mark! 12:15 PM Tue Apr 4
+      // btw: (from: Asher) hex codes are 6 characters, like E1E1E1, not E10E10E10
+      // kk good to know, but im using htmlcolorcode.com now so i just copy paste - devilish bob
+      "909090",
+      "555555",
+      "bababa",
+      "5A5A5A",
+      "4f4f4f",
+      "a5a5a5",
+      "b5b5b5",
+      "1e1e1e",
+      "808080",
+      // 32 shades mark! more than halfway!
+      "d7d7d7",
+      "6e6e6e",
+      "777777",
+      "a2a2a2",
+      "8c8c8c",
+      "636363",
+      "1f1f1f",
+      "9d9d9d",
+      "bcbcbc",
+      "949494",
+      "5a5a5a",
+      "404040",
+      //44 shades mark! 7:12 Wed Apr 5
+      "444444",
+      "282828",
+      "2e2e2e",
+      "2b2b2b",
+      "d8d8d8",
+      "787878",
+      // 50 SHADES OF GREY!!!!!!! roll the credits, exatcly 8:00 PM Wed Apr 5!!!!!
+      // https://mdigi.tools/random-gray-color/ is a good thing, you have to delete the '#' sign though.
+    ];
+    let randcolor = grays[Math.floor(Math.random() * grays.length)];
+    html.setAttribute("style", 'background-color: #'+randcolor);
+  }
+</script>
+
+<button onclick="colorred()">
+  <p>
+    Change the Background to one of various shades of red!
+  </p>
+</button>
+
+<button onclick="colororange()">
+  <p>
+    Change the Background to one of various shades of orange!
+  </p>
+</button>
+
+<button onclick="coloryellow()">
+  <p>
+    Change the Background to one of various shades of yellow!
+  </p>
+</button>
+
+<button onclick="colorgreen()">
+  <p>
+    Change the Background to one of various shades of green!
+  </p>
+</button>
+
+
+<button onclick="colorgray()">
+  <p>
+    50 shades of gray button
   </p>
 </button>
