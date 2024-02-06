@@ -172,16 +172,6 @@
     let randcolor = grays[Math.floor(Math.random() * grays.length)];
     html.setAttribute("style", 'background-color: #'+randcolor);
   }
-
-  function frustration() {
-    var html = document.getElementsByTagName("html")[0];
-    let grays = [
-    "WHY"
-    "I HATE THIS",
-    "WHY DOEENT HUGO WORK",
-    "PUSHING AND COMMITING IS SO STUPID",
-]
-}
 </script>
 
 <button onclick="colorred()">
@@ -215,10 +205,4 @@
   </p>
 </button>
 
-
-<button onclick="displayfrustration()">
-  <p>
-    display my frustration button
-  <p>
-  </button>
 {{ end }}
